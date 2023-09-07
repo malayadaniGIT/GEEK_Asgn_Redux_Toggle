@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GEEK_Asgn_Redux_Toggle/static/css/main.5ef7d5f8.css",
+    "main.js": "/GEEK_Asgn_Redux_Toggle/static/js/main.c9788e5d.js",
+    "index.html": "/GEEK_Asgn_Redux_Toggle/index.html",
+    "main.5ef7d5f8.css.map": "/GEEK_Asgn_Redux_Toggle/static/css/main.5ef7d5f8.css.map",
+    "main.c9788e5d.js.map": "/GEEK_Asgn_Redux_Toggle/static/js/main.c9788e5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ef7d5f8.css",
+    "static/js/main.c9788e5d.js"
+  ]
+}
